@@ -86,19 +86,6 @@ def process_image(input_path, output_path, verbose=True):
 def main(input_dir="dataset/input", output_dir="dataset/output", 
          log_file="logs/diagnostics.json", gallery_path="gallery/benchmark_grid.png",
          verbose=True):
-    """
-    Main pipeline: Process all images and generate gallery.
-    
-    Args:
-        input_dir: Directory with input images
-        output_dir: Directory to save enhanced images
-        log_file: Path to JSON diagnostics log
-        gallery_path: Path to save benchmark gallery
-        verbose: Print detailed progress messages
-    
-    Returns:
-        Dictionary with pipeline results
-    """
     # Ensure directories exist
     ensure_directories()
     
@@ -162,9 +149,9 @@ def main(input_dir="dataset/input", output_dir="dataset/output",
     )
     
     if gallery_success:
-        print(f"✓ Gallery saved: {gallery_path}")
+        print(f"Gallery saved: {gallery_path}")
     else:
-        print(f"✗ Gallery generation failed")
+        print(f"Gallery generation failed")
     
     print()
     print("Pipeline complete!")
@@ -184,8 +171,5 @@ def main(input_dir="dataset/input", output_dir="dataset/output",
 
 
 if __name__ == "__main__":
-    # Run the full pipeline
-    results = main()
-    
-    # Exit with appropriate code
+    results = main()    
     exit(0 if results["processed"] > 0 else 1)

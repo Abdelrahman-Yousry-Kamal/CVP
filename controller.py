@@ -1,85 +1,78 @@
 """
 Phase 2: Controller Module
-This is the brain of the system. It reads the metrics and returns an ordered 
-list of treatments to apply. Order matters
-THE RULE OF ORDER:
-EXPOSURE CORRECTION → NOISE REMOVAL → CONTRAST ENHANCEMENT → SHARPENING
+Brain of the system. Reads metrics and returns an ordered treatment pipeline.
+
+Order: EXPOSURE CORRECTION → NOISE REMOVAL → CONTRAST ENHANCEMENT → SHARPENING
 """
 
-# Threshold Constants
-CONTRAST_LOW = 50          # below this = low contrast
-CONTRAST_HIGH = 200        # above this = leave it alone (very high contrast)
-EXPOSURE_DARK = 60         # mean below this = underexposed
-EXPOSURE_BRIGHT = 190      # mean above this = overexposed
-NOISE_LOW = 20             # below = clean
-NOISE_HIGH = 80            # above = heavily noisy (salt-and-pepper)
-SHARPNESS_LOW = 100        # below = blurry
-SHARPNESS_MEDIUM = 500     # below = slightly soft
+CONTRAST_LOW = 50
+CONTRAST_MEDIUM = 100
+CONTRAST_HIGH = 200
+EXPOSURE_DARK = 60
+EXPOSURE_BRIGHT = 190
+NOISE_LOW = 20
+NOISE_HIGH = 80
+SHARPNESS_LOW = 100
+SHARPNESS_MEDIUM = 500
+SHARPNESS_HIGH = 1000
 
 
 def prescribe(metrics):
     """
-    Decision logic: read metrics and return ordered treatment pipeline.
-        Args:
+    Read metrics and return ordered treatment pipeline.
+
+    Args:
         metrics: Dictionary from diagnose() with keys: contrast, exposure, noise, sharpness
-    
+
     Returns:
-        List of treatment function names to apply in order. Empty list for perfect images.
+        List of treatment function names to apply in order.
     """
     pipeline = []
-    
+    exposure_corrected = False
+
     # STEP 1: EXPOSURE CORRECTION
     if metrics["exposure"] < EXPOSURE_DARK:
         pipeline.append("gamma_correction_brighten")
+        exposure_corrected = True
     elif metrics["exposure"] > EXPOSURE_BRIGHT:
         pipeline.append("gamma_correction_darken")
-    
+        exposure_corrected = True
+
     # STEP 2: NOISE REMOVAL
-    # Must happen before sharpening to avoid amplifying noise artifacts
     if metrics["noise"] > NOISE_HIGH:
-        # Salt-and-pepper noise: use median filter (non-linear, removes sp without spreading)
         pipeline.append("median_filter")
     elif metrics["noise"] > NOISE_LOW:
-        # Mild/Gaussian noise: use Gaussian filter (smoother, preserves edges better)
         pipeline.append("gaussian_filter")
-    
+
     # STEP 3: CONTRAST ENHANCEMENT
-    # Only apply if contrast is genuinely low
     if metrics["contrast"] < CONTRAST_LOW:
-        # For noisy images, use contrast stretching (safer, less aggressive)
-        # For clean images, use histogram equalization (more aggressive spread)
-        if metrics["noise"] > NOISE_LOW:
+        if exposure_corrected:
+            pass  # Gamma already handles contrast — adding more will corrupt colors
+        elif metrics["noise"] > NOISE_LOW:
             pipeline.append("contrast_stretching")
         else:
             pipeline.append("histogram_equalization")
-    
-    # STEP 4: SHARPENING — ONLY IF NOISE IS ACCEPTABLE
-    # Never sharpen noisy images — you'll bake the noise artifacts in permanently
+    # STEP 4: SHARPENING (never on heavily noisy images)
     if metrics["sharpness"] < SHARPNESS_LOW and metrics["noise"] < NOISE_HIGH:
-        # Image is blurry AND not heavily noisy → safe to sharpen
         pipeline.append("unsharp_mask")
     elif metrics["sharpness"] < SHARPNESS_MEDIUM and metrics["noise"] < NOISE_LOW:
-        # Image is slightly soft AND very clean → slightly aggressive sharpening
         pipeline.append("laplacian_sharpen")
-    
+
     return pipeline
 
 
 def diagnose_and_prescribe(metrics):
     """
-    Generate a readable diagnostic report alongside the treatment pipeline.
-    
-    Useful for logging and understanding what decisions were made.
-    
+    Return treatment pipeline alongside a human-readable diagnostic report.
+
     Args:
         metrics: Dictionary from diagnose()
-    
+
     Returns:
         Tuple of (treatment_pipeline, diagnostic_report_dict)
     """
     pipeline = prescribe(metrics)
-    
-    # Build descriptive report
+
     report = {
         "contrast_status": classify_contrast(metrics["contrast"]),
         "exposure_status": classify_exposure(metrics["exposure"]),
@@ -88,45 +81,37 @@ def diagnose_and_prescribe(metrics):
         "treatments": pipeline,
         "treatment_count": len(pipeline)
     }
-    
+
     return pipeline, report
 
 
-def classify_contrast(contrast_value):
-    """Classify contrast metric into human-readable category."""
-    if contrast_value < CONTRAST_LOW:
+def classify_contrast(v):
+    if v < CONTRAST_LOW:
         return "LOW"
-    elif contrast_value > CONTRAST_HIGH:
+    elif v > CONTRAST_HIGH:
         return "VERY_HIGH"
-    else:
-        return "ACCEPTABLE"
+    return "ACCEPTABLE"
 
 
-def classify_exposure(exposure_value):
-    """Classify exposure metric into human-readable category."""
-    if exposure_value < EXPOSURE_DARK:
+def classify_exposure(v):
+    if v < EXPOSURE_DARK:
         return "UNDEREXPOSED"
-    elif exposure_value > EXPOSURE_BRIGHT:
+    elif v > EXPOSURE_BRIGHT:
         return "OVEREXPOSED"
-    else:
-        return "ACCEPTABLE"
+    return "ACCEPTABLE"
 
 
-def classify_noise(noise_value):
-    """Classify noise metric into human-readable category."""
-    if noise_value < NOISE_LOW:
+def classify_noise(v):
+    if v < NOISE_LOW:
         return "CLEAN"
-    elif noise_value < NOISE_HIGH:
+    elif v < NOISE_HIGH:
         return "MILD"
-    else:
-        return "HEAVY"
+    return "HEAVY"
 
 
-def classify_sharpness(sharpness_value):
-    """Classify sharpness metric into human-readable category."""
-    if sharpness_value < SHARPNESS_LOW:
+def classify_sharpness(v):
+    if v < SHARPNESS_LOW:
         return "BLURRY"
-    elif sharpness_value < SHARPNESS_MEDIUM:
+    elif v < SHARPNESS_MEDIUM:
         return "SLIGHTLY_SOFT"
-    else:
-        return "SHARP"
+    return "SHARP"

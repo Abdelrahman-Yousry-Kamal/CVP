@@ -180,9 +180,12 @@ def log_diagnostics(log_data, log_path="logs/diagnostics.json"):
         Path(log_path).parent.mkdir(parents=True, exist_ok=True)
         
         # Load existing log or create new list
-        if Path(log_path).exists():
-            with open(log_path, 'r') as f:
-                log_list = json.load(f)
+        if Path(log_path).exists() and Path(log_path).stat().st_size > 0:
+            try:
+                with open(log_path, 'r') as f:
+                    log_list = json.load(f)
+            except json.JSONDecodeError:
+                log_list = []
         else:
             log_list = []
         

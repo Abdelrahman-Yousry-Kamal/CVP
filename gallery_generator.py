@@ -1,11 +1,6 @@
 """
 Gallery Generator Module
 Builds the visual benchmark grid for grading.
-
-The 3-column layout (original / histogram / enhanced) is ideal for the grader:
-- It visually proves that histogram equalization actually spread the histogram
-- It shows that sharpening actually recovered edge detail
-- Side-by-side comparison makes quality improvements clear
 """
 
 import cv2
