@@ -1,0 +1,1545 @@
+[
+  {
+    "image_filename": "71SiLxdQ0jL._SL1000_.jpg",
+    "metrics": {
+      "contrast": 213.0,
+      "exposure": 150.4865568,
+      "noise": 120.06820092958465,
+      "sharpness": 2051.469679100917
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "71SiLxdQ0jL._SL1000_.jpg",
+    "metrics": {
+      "contrast": 213.0,
+      "exposure": 150.4865568,
+      "noise": 120.06820092958465,
+      "sharpness": 2051.469679100917
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "71SiLxdQ0jL._SL1000_.jpg",
+    "metrics": {
+      "contrast": 213.0,
+      "exposure": 150.4865568,
+      "noise": 120.06820092958465,
+      "sharpness": 2051.469679100917
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "2.jpg",
+    "metrics": {
+      "contrast": 213.0,
+      "exposure": 150.4865568,
+      "noise": 120.06820092958465,
+      "sharpness": 2051.469679100917
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "1.avif",
+    "metrics": {
+      "contrast": 84.0,
+      "exposure": 28.87148148148148,
+      "noise": 32.04079771036953,
+      "sharpness": 568.7462861683769
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "MILD",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "gaussian_filter"
+    ],
+    "treatment_count": 2
+  },
+  {
+    "image_filename": "2.jpg",
+    "metrics": {
+      "contrast": 213.0,
+      "exposure": 150.4865568,
+      "noise": 120.06820092958465,
+      "sharpness": 2051.469679100917
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "1.avif",
+    "metrics": {
+      "contrast": 84.0,
+      "exposure": 28.87148148148148,
+      "noise": 32.04079771036953,
+      "sharpness": 568.7462861683769
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "MILD",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "gaussian_filter"
+    ],
+    "treatment_count": 2
+  },
+  {
+    "image_filename": "2.jpg",
+    "metrics": {
+      "contrast": 213.0,
+      "exposure": 150.4865568,
+      "noise": 120.06820092958465,
+      "sharpness": 2051.469679100917
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "1.avif",
+    "metrics": {
+      "contrast": 84.0,
+      "exposure": 28.87148148148148,
+      "noise": 32.04079771036953,
+      "sharpness": 568.7462861683769
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "MILD",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "gaussian_filter"
+    ],
+    "treatment_count": 2
+  },
+  {
+    "image_filename": "2.jpg",
+    "metrics": {
+      "contrast": 213.0,
+      "exposure": 150.4865568,
+      "noise": 120.06820092958465,
+      "sharpness": 2051.469679100917
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "1.avif",
+    "metrics": {
+      "contrast": 84.0,
+      "exposure": 28.87148148148148,
+      "noise": 32.04079771036953,
+      "sharpness": 568.7462861683769
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "MILD",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "gaussian_filter"
+    ],
+    "treatment_count": 2
+  },
+  {
+    "image_filename": "2.jpg",
+    "metrics": {
+      "contrast": 213.0,
+      "exposure": 150.4865568,
+      "noise": 120.06820092958465,
+      "sharpness": 2051.469679100917
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "1.avif",
+    "metrics": {
+      "contrast": 84.0,
+      "exposure": 28.87148148148148,
+      "noise": 32.04079771036953,
+      "sharpness": 568.7462861683769
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "MILD",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "gaussian_filter"
+    ],
+    "treatment_count": 2
+  },
+  {
+    "image_filename": "grainy-image.jpg",
+    "metrics": {
+      "contrast": 150.0,
+      "exposure": 136.74980124521073,
+      "noise": 20.25736020440077,
+      "sharpness": 354.35059785872176
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "MILD",
+      "sharpness_status": "SLIGHTLY_SOFT"
+    },
+    "treatments_applied": [
+      "gaussian_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "grainy-image.jpg",
+    "metrics": {
+      "contrast": 150.0,
+      "exposure": 136.74980124521073,
+      "noise": 20.25736020440077,
+      "sharpness": 354.35059785872176
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "MILD",
+      "sharpness_status": "SLIGHTLY_SOFT"
+    },
+    "treatments_applied": [
+      "gaussian_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "Pepper-Noise.webp",
+    "metrics": {
+      "contrast": 150.0,
+      "exposure": 97.2634,
+      "noise": 750.1687153233332,
+      "sharpness": 14975.36427129765
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "grainy-image.jpg",
+    "metrics": {
+      "contrast": 150.0,
+      "exposure": 136.74980124521073,
+      "noise": 20.25736020440077,
+      "sharpness": 354.35059785872176
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "MILD",
+      "sharpness_status": "SLIGHTLY_SOFT"
+    },
+    "treatments_applied": [
+      "gaussian_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "Pepper-Noise.webp",
+    "metrics": {
+      "contrast": 150.0,
+      "exposure": 97.2634,
+      "noise": 750.1687153233332,
+      "sharpness": 14975.36427129765
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "sp_img_gray_noise_heavy.png",
+    "metrics": {
+      "contrast": 255.0,
+      "exposure": 111.43501281738281,
+      "noise": 5712.725152466213,
+      "sharpness": 112641.84035053477
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "grainy-image.jpg",
+    "metrics": {
+      "contrast": 150.0,
+      "exposure": 136.74980124521073,
+      "noise": 20.25736020440077,
+      "sharpness": 354.35059785872176
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "MILD",
+      "sharpness_status": "SLIGHTLY_SOFT"
+    },
+    "treatments_applied": [
+      "gaussian_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "Pepper-Noise.webp",
+    "metrics": {
+      "contrast": 150.0,
+      "exposure": 97.2634,
+      "noise": 750.1687153233332,
+      "sharpness": 14975.36427129765
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "Screenshot 2026-04-24 174733.png",
+    "metrics": {
+      "contrast": 146.0,
+      "exposure": 61.625922390492946,
+      "noise": 0.4127978296587902,
+      "sharpness": 485.78822791053847
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "SLIGHTLY_SOFT"
+    },
+    "treatments_applied": [
+      "laplacian_sharpen"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "sp_img_gray_noise_heavy.png",
+    "metrics": {
+      "contrast": 255.0,
+      "exposure": 111.43501281738281,
+      "noise": 5712.725152466213,
+      "sharpness": 112641.84035053477
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "001_perfect_01.jpg",
+    "metrics": {
+      "contrast": 151.0,
+      "exposure": 97.25794444444445,
+      "noise": 756.6614602266666,
+      "sharpness": 15116.058192686916
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "001_perfect_02.jpg",
+    "metrics": {
+      "contrast": 146.0,
+      "exposure": 61.610896005834654,
+      "noise": 0.4341359344877694,
+      "sharpness": 477.4106977137099
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "SLIGHTLY_SOFT"
+    },
+    "treatments_applied": [
+      "laplacian_sharpen"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "001_perfect_03.jpg",
+    "metrics": {
+      "contrast": 255.0,
+      "exposure": 111.42935180664062,
+      "noise": 5657.139855902409,
+      "sharpness": 111695.8269812332
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "002_underexposed_01.jpg",
+    "metrics": {
+      "contrast": 31.0,
+      "exposure": 19.047955555555557,
+      "noise": 31.195655817777777,
+      "sharpness": 616.7022489066667
+    },
+    "metric_classes": {
+      "contrast_status": "LOW",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "MILD",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "gaussian_filter",
+      "contrast_stretching"
+    ],
+    "treatment_count": 3
+  },
+  {
+    "image_filename": "002_underexposed_02.jpg",
+    "metrics": {
+      "contrast": 30.0,
+      "exposure": 11.931944206100647,
+      "noise": 0.04761836875591675,
+      "sharpness": 20.861820456588674
+    },
+    "metric_classes": {
+      "contrast_status": "LOW",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "CLEAN",
+      "sharpness_status": "BLURRY"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "histogram_equalization",
+      "unsharp_mask"
+    ],
+    "treatment_count": 3
+  },
+  {
+    "image_filename": "002_underexposed_03.jpg",
+    "metrics": {
+      "contrast": 52.0,
+      "exposure": 22.115142822265625,
+      "noise": 227.10713541135192,
+      "sharpness": 4556.9173185897525
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "median_filter"
+    ],
+    "treatment_count": 2
+  },
+  {
+    "image_filename": "003_overexposed_01.jpg",
+    "metrics": {
+      "contrast": 196.0,
+      "exposure": 177.7358,
+      "noise": 1672.3060694513579,
+      "sharpness": 32146.1540132384
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "003_overexposed_02.jpg",
+    "metrics": {
+      "contrast": 236.0,
+      "exposure": 114.74458095585396,
+      "noise": 0.4870934039238218,
+      "sharpness": 218.92964036573662
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "SLIGHTLY_SOFT"
+    },
+    "treatments_applied": [
+      "laplacian_sharpen"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "003_overexposed_03.jpg",
+    "metrics": {
+      "contrast": 255.0,
+      "exposure": 164.31044006347656,
+      "noise": 6691.777209475404,
+      "sharpness": 128819.73669755086
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "004_salt_pepper_01.jpg",
+    "metrics": {
+      "contrast": 255.0,
+      "exposure": 102.11798888888889,
+      "noise": 4189.212330115555,
+      "sharpness": 87313.7896594958
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "004_salt_pepper_02.jpg",
+    "metrics": {
+      "contrast": 251.0,
+      "exposure": 74.05553380668411,
+      "noise": 4299.732059029198,
+      "sharpness": 85171.38628131864
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "004_salt_pepper_03.jpg",
+    "metrics": {
+      "contrast": 255.0,
+      "exposure": 113.28843688964844,
+      "noise": 8397.413460231386,
+      "sharpness": 160943.33233063083
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "005_gaussian_noise_01.jpg",
+    "metrics": {
+      "contrast": 164.0,
+      "exposure": 97.24356666666667,
+      "noise": 1096.2850383955554,
+      "sharpness": 22424.498614345557
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "005_gaussian_noise_02.jpg",
+    "metrics": {
+      "contrast": 149.0,
+      "exposure": 62.7313403620919,
+      "noise": 325.717763866249,
+      "sharpness": 7308.548404689278
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "005_gaussian_noise_03.jpg",
+    "metrics": {
+      "contrast": 245.0,
+      "exposure": 111.13525390625,
+      "noise": 4963.52364464011,
+      "sharpness": 99956.45583458408
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "006_blurry_01.jpg",
+    "metrics": {
+      "contrast": 105.0,
+      "exposure": 97.21248888888888,
+      "noise": 0.06636649765432098,
+      "sharpness": 2.619610838395062
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "BLURRY"
+    },
+    "treatments_applied": [
+      "unsharp_mask"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "006_blurry_02.jpg",
+    "metrics": {
+      "contrast": 143.0,
+      "exposure": 61.403352782187135,
+      "noise": 0.033964854431821984,
+      "sharpness": 2.1508164667017837
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "BLURRY"
+    },
+    "treatments_applied": [
+      "unsharp_mask"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "007_dark_noisy_01.jpg",
+    "metrics": {
+      "contrast": 88.0,
+      "exposure": 38.25230407714844,
+      "noise": 677.8428661674261,
+      "sharpness": 14219.580573374173
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "median_filter"
+    ],
+    "treatment_count": 2
+  },
+  {
+    "image_filename": "008_blurry_lowcontrast_01.jpg",
+    "metrics": {
+      "contrast": 67.0,
+      "exposure": 109.12225555555555,
+      "noise": 0.11608496283950616,
+      "sharpness": 3.1428442844444446
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "BLURRY"
+    },
+    "treatments_applied": [
+      "unsharp_mask"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "001_perfect_01.jpg",
+    "metrics": {
+      "contrast": 151.0,
+      "exposure": 97.25794444444445,
+      "noise": 756.6614602266666,
+      "sharpness": 15116.058192686916
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "001_perfect_02.jpg",
+    "metrics": {
+      "contrast": 146.0,
+      "exposure": 61.610896005834654,
+      "noise": 0.4341359344877694,
+      "sharpness": 477.4106977137099
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "SLIGHTLY_SOFT"
+    },
+    "treatments_applied": [
+      "laplacian_sharpen"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "001_perfect_03.jpg",
+    "metrics": {
+      "contrast": 255.0,
+      "exposure": 111.42935180664062,
+      "noise": 5657.139855902409,
+      "sharpness": 111695.8269812332
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "002_underexposed_01.jpg",
+    "metrics": {
+      "contrast": 31.0,
+      "exposure": 19.047955555555557,
+      "noise": 31.195655817777777,
+      "sharpness": 616.7022489066667
+    },
+    "metric_classes": {
+      "contrast_status": "LOW",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "MILD",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "gaussian_filter",
+      "contrast_stretching"
+    ],
+    "treatment_count": 3
+  },
+  {
+    "image_filename": "002_underexposed_02.jpg",
+    "metrics": {
+      "contrast": 30.0,
+      "exposure": 11.931944206100647,
+      "noise": 0.04761836875591675,
+      "sharpness": 20.861820456588674
+    },
+    "metric_classes": {
+      "contrast_status": "LOW",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "CLEAN",
+      "sharpness_status": "BLURRY"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "histogram_equalization",
+      "unsharp_mask"
+    ],
+    "treatment_count": 3
+  },
+  {
+    "image_filename": "002_underexposed_03.jpg",
+    "metrics": {
+      "contrast": 52.0,
+      "exposure": 22.115142822265625,
+      "noise": 227.10713541135192,
+      "sharpness": 4556.9173185897525
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "median_filter"
+    ],
+    "treatment_count": 2
+  },
+  {
+    "image_filename": "003_overexposed_01.jpg",
+    "metrics": {
+      "contrast": 196.0,
+      "exposure": 177.7358,
+      "noise": 1672.3060694513579,
+      "sharpness": 32146.1540132384
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "003_overexposed_02.jpg",
+    "metrics": {
+      "contrast": 236.0,
+      "exposure": 114.74458095585396,
+      "noise": 0.4870934039238218,
+      "sharpness": 218.92964036573662
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "SLIGHTLY_SOFT"
+    },
+    "treatments_applied": [
+      "laplacian_sharpen"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "003_overexposed_03.jpg",
+    "metrics": {
+      "contrast": 255.0,
+      "exposure": 164.31044006347656,
+      "noise": 6691.777209475404,
+      "sharpness": 128819.73669755086
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "004_salt_pepper_01.jpg",
+    "metrics": {
+      "contrast": 255.0,
+      "exposure": 102.11798888888889,
+      "noise": 4189.212330115555,
+      "sharpness": 87313.7896594958
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "004_salt_pepper_02.jpg",
+    "metrics": {
+      "contrast": 251.0,
+      "exposure": 74.05553380668411,
+      "noise": 4299.732059029198,
+      "sharpness": 85171.38628131864
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "004_salt_pepper_03.jpg",
+    "metrics": {
+      "contrast": 255.0,
+      "exposure": 113.28843688964844,
+      "noise": 8397.413460231386,
+      "sharpness": 160943.33233063083
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "005_gaussian_noise_01.jpg",
+    "metrics": {
+      "contrast": 164.0,
+      "exposure": 97.24356666666667,
+      "noise": 1096.2850383955554,
+      "sharpness": 22424.498614345557
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "005_gaussian_noise_02.jpg",
+    "metrics": {
+      "contrast": 149.0,
+      "exposure": 62.7313403620919,
+      "noise": 325.717763866249,
+      "sharpness": 7308.548404689278
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "005_gaussian_noise_03.jpg",
+    "metrics": {
+      "contrast": 245.0,
+      "exposure": 111.13525390625,
+      "noise": 4963.52364464011,
+      "sharpness": 99956.45583458408
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "006_blurry_01.jpg",
+    "metrics": {
+      "contrast": 105.0,
+      "exposure": 97.21248888888888,
+      "noise": 0.06636649765432098,
+      "sharpness": 2.619610838395062
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "BLURRY"
+    },
+    "treatments_applied": [
+      "unsharp_mask"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "006_blurry_02.jpg",
+    "metrics": {
+      "contrast": 143.0,
+      "exposure": 61.403352782187135,
+      "noise": 0.033964854431821984,
+      "sharpness": 2.1508164667017837
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "BLURRY"
+    },
+    "treatments_applied": [
+      "unsharp_mask"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "007_dark_noisy_01.jpg",
+    "metrics": {
+      "contrast": 88.0,
+      "exposure": 38.25230407714844,
+      "noise": 677.8428661674261,
+      "sharpness": 14219.580573374173
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "median_filter"
+    ],
+    "treatment_count": 2
+  },
+  {
+    "image_filename": "008_blurry_lowcontrast_01.jpg",
+    "metrics": {
+      "contrast": 67.0,
+      "exposure": 109.12225555555555,
+      "noise": 0.11608496283950616,
+      "sharpness": 3.1428442844444446
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "BLURRY"
+    },
+    "treatments_applied": [
+      "unsharp_mask"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "001_perfect_01.jpg",
+    "metrics": {
+      "contrast": 151.0,
+      "exposure": 97.25794444444445,
+      "noise": 756.6614602266666,
+      "sharpness": 15116.058192686916
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "001_perfect_02.jpg",
+    "metrics": {
+      "contrast": 146.0,
+      "exposure": 61.610896005834654,
+      "noise": 0.4341359344877694,
+      "sharpness": 477.4106977137099
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "SLIGHTLY_SOFT"
+    },
+    "treatments_applied": [
+      "laplacian_sharpen"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "001_perfect_03.jpg",
+    "metrics": {
+      "contrast": 255.0,
+      "exposure": 111.42935180664062,
+      "noise": 5657.139855902409,
+      "sharpness": 111695.8269812332
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "002_underexposed_01.jpg",
+    "metrics": {
+      "contrast": 31.0,
+      "exposure": 19.047955555555557,
+      "noise": 31.195655817777777,
+      "sharpness": 616.7022489066667
+    },
+    "metric_classes": {
+      "contrast_status": "LOW",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "MILD",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "gaussian_filter",
+      "contrast_stretching"
+    ],
+    "treatment_count": 3
+  },
+  {
+    "image_filename": "002_underexposed_02.jpg",
+    "metrics": {
+      "contrast": 30.0,
+      "exposure": 11.931944206100647,
+      "noise": 0.04761836875591675,
+      "sharpness": 20.861820456588674
+    },
+    "metric_classes": {
+      "contrast_status": "LOW",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "CLEAN",
+      "sharpness_status": "BLURRY"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "histogram_equalization",
+      "unsharp_mask"
+    ],
+    "treatment_count": 3
+  },
+  {
+    "image_filename": "002_underexposed_03.jpg",
+    "metrics": {
+      "contrast": 52.0,
+      "exposure": 22.115142822265625,
+      "noise": 227.10713541135192,
+      "sharpness": 4556.9173185897525
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "median_filter"
+    ],
+    "treatment_count": 2
+  },
+  {
+    "image_filename": "003_overexposed_01.jpg",
+    "metrics": {
+      "contrast": 196.0,
+      "exposure": 177.7358,
+      "noise": 1672.3060694513579,
+      "sharpness": 32146.1540132384
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "003_overexposed_02.jpg",
+    "metrics": {
+      "contrast": 236.0,
+      "exposure": 114.74458095585396,
+      "noise": 0.4870934039238218,
+      "sharpness": 218.92964036573662
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "SLIGHTLY_SOFT"
+    },
+    "treatments_applied": [
+      "laplacian_sharpen"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "003_overexposed_03.jpg",
+    "metrics": {
+      "contrast": 255.0,
+      "exposure": 164.31044006347656,
+      "noise": 6691.777209475404,
+      "sharpness": 128819.73669755086
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "004_salt_pepper_01.jpg",
+    "metrics": {
+      "contrast": 255.0,
+      "exposure": 102.11798888888889,
+      "noise": 4189.212330115555,
+      "sharpness": 87313.7896594958
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "004_salt_pepper_02.jpg",
+    "metrics": {
+      "contrast": 251.0,
+      "exposure": 74.05553380668411,
+      "noise": 4299.732059029198,
+      "sharpness": 85171.38628131864
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "004_salt_pepper_03.jpg",
+    "metrics": {
+      "contrast": 255.0,
+      "exposure": 113.28843688964844,
+      "noise": 8397.413460231386,
+      "sharpness": 160943.33233063083
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "005_gaussian_noise_01.jpg",
+    "metrics": {
+      "contrast": 164.0,
+      "exposure": 97.24356666666667,
+      "noise": 1096.2850383955554,
+      "sharpness": 22424.498614345557
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "005_gaussian_noise_02.jpg",
+    "metrics": {
+      "contrast": 149.0,
+      "exposure": 62.7313403620919,
+      "noise": 325.717763866249,
+      "sharpness": 7308.548404689278
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "005_gaussian_noise_03.jpg",
+    "metrics": {
+      "contrast": 245.0,
+      "exposure": 111.13525390625,
+      "noise": 4963.52364464011,
+      "sharpness": 99956.45583458408
+    },
+    "metric_classes": {
+      "contrast_status": "VERY_HIGH",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "median_filter"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "006_blurry_01.jpg",
+    "metrics": {
+      "contrast": 105.0,
+      "exposure": 97.21248888888888,
+      "noise": 0.06636649765432098,
+      "sharpness": 2.619610838395062
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "BLURRY"
+    },
+    "treatments_applied": [
+      "unsharp_mask"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "006_blurry_02.jpg",
+    "metrics": {
+      "contrast": 143.0,
+      "exposure": 61.403352782187135,
+      "noise": 0.033964854431821984,
+      "sharpness": 2.1508164667017837
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "BLURRY"
+    },
+    "treatments_applied": [
+      "unsharp_mask"
+    ],
+    "treatment_count": 1
+  },
+  {
+    "image_filename": "007_dark_noisy_01.jpg",
+    "metrics": {
+      "contrast": 88.0,
+      "exposure": 38.25230407714844,
+      "noise": 677.8428661674261,
+      "sharpness": 14219.580573374173
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "UNDEREXPOSED",
+      "noise_status": "HEAVY",
+      "sharpness_status": "SHARP"
+    },
+    "treatments_applied": [
+      "gamma_correction_brighten",
+      "median_filter"
+    ],
+    "treatment_count": 2
+  },
+  {
+    "image_filename": "008_blurry_lowcontrast_01.jpg",
+    "metrics": {
+      "contrast": 67.0,
+      "exposure": 109.12225555555555,
+      "noise": 0.11608496283950616,
+      "sharpness": 3.1428442844444446
+    },
+    "metric_classes": {
+      "contrast_status": "ACCEPTABLE",
+      "exposure_status": "ACCEPTABLE",
+      "noise_status": "CLEAN",
+      "sharpness_status": "BLURRY"
+    },
+    "treatments_applied": [
+      "unsharp_mask"
+    ],
+    "treatment_count": 1
+  }
+]
